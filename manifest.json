@@ -1,6 +1,6 @@
 {
-    "name": "teste_web",
-    "short_name": "teste_web",
+    "name": "pontoeletronico_app",
+    "short_name": "pontoeletronico_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
