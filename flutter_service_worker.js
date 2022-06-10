@@ -95,20 +95,20 @@ const RESOURCES = {
 "assets/lib/fonts/SF-Pro-Rounded-Regular.otf": "65e44011e184b9ff8f36248614d71139",
 "assets/FontManifest.json": "0c88efbefeb0ef9d6ceaf0610bd2ad03",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/favicon.png": "ae17c9845046a3242a1a977c70ffcfed",
+"icons/Icon-maskable-192.png": "ae17c9845046a3242a1a977c70ffcfed",
+"icons/Icon-maskable-512.png": "ae17c9845046a3242a1a977c70ffcfed",
+"icons/Icon-192.png": "ae17c9845046a3242a1a977c70ffcfed",
+"icons/Icon-512.png": "ae17c9845046a3242a1a977c70ffcfed",
 "version.json": "fdae53acfbaf7f9ccfc13415a475062f",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "ea49a6f395c5072138fac38f5adb8905",
-"/": "ea49a6f395c5072138fac38f5adb8905",
-"manifest.json": "75b550bf966fecfd2675c94785dce373",
-"main.dart.js": "5ecbd794738b876c63942654c76de362"
+"index.html": "72b5a570e717c265ae380f58842855de",
+"/": "72b5a570e717c265ae380f58842855de",
+"manifest.json": "286fdcd61ee0308c3a443dd0f4a7711d",
+"main.dart.js": "a1cfe2fed21151131c1e790ba5a62cc9"
 };
 
 // The application shell files that are downloaded before a service worker can
