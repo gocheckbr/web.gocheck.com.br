@@ -93739,7 +93739,7 @@ g=A.Bx(A.a([A.K(k,A.ki(k,A.aU("lib/img/bar.svg",B.w,k,k),k,new A.azE(l),B.bs,k),
 s=l.e
 r=h[s]
 s=s===0
-if(s&&$.kV!==1){s=50*i
+if(s&&$.kV!==0){s=50*i
 q=7*i
 p=t.Q
 o=A.a([new A.bu(0,B.O,A.aq(38,0,0,0),B.o,20)],p)
