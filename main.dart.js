@@ -93738,8 +93738,7 @@ G(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="lib/svg/qrcode.svg",i=A.fD(b),h=l.r,g=
 g=A.Bx(A.a([A.K(k,A.ki(k,A.aU("lib/img/bar.svg",B.w,k,k),k,new A.azE(l),B.bs,k),B.f,k,k,k,k,g,new A.z(0,0,10*i,0),k,k,k,g)],f),!1,B.K,0,k,61*i)
 s=l.e
 r=h[s]
-s=s===0
-if(s&&$.kV!==0){s=50*i
+if($.kV!==0){s=50*i
 q=7*i
 p=t.Q
 o=A.a([new A.bu(0,B.O,A.aq(38,0,0,0),B.o,20)],p)
@@ -93749,7 +93748,7 @@ o=A.dW(k,A.K(k,A.aU(j,k,k,k),B.f,k,k,new A.a8(B.w,k,k,m,o,k,B.n),k,s,k,new A.z(q
 m=A.Z(k,k,10)
 p=A.a([new A.bu(0,B.O,A.aq(38,0,0,0),B.o,20)],p)
 n=A.ad(n)
-f=A.aM(A.a([o,m,A.dW(k,A.K(k,A.aU("lib/svg/local.svg",B.i,k,k),B.f,k,k,new A.a8(B.w,k,k,n,p,k,B.n),k,s,k,new A.z(q,q,q,q),k,k,s),B.T,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.azG(b),k,k,k,k,k,k)],f),B.m,B.a3,B.j,k)}else if(s){f=A.a([new A.bu(0,B.O,A.aq(38,0,0,0),B.o,20)],t.Q)
+f=A.aM(A.a([o,m,A.dW(k,A.K(k,A.aU("lib/svg/local.svg",B.i,k,k),B.f,k,k,new A.a8(B.w,k,k,n,p,k,B.n),k,s,k,new A.z(q,q,q,q),k,k,s),B.T,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.azG(b),k,k,k,k,k,k)],f),B.m,B.a3,B.j,k)}else if(s===0){f=A.a([new A.bu(0,B.O,A.aq(38,0,0,0),B.o,20)],t.Q)
 s=A.ad(20)
 f=A.ace(k,A.K(k,A.aU(j,k,k,k),B.f,k,k,new A.a8(B.w,k,k,s,f,k,B.n),k,60,k,new A.z(10,10,10,10),k,k,60),"btn1",!1,new A.azH(l,b),"Leitor de QRCode")}else f=k
 return A.er(g,k,r,new A.N1(h,k),!0,f,B.J2,l.x)}}
