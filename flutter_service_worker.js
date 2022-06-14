@@ -107,10 +107,10 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"index.html": "28a0e6bd9a908b3fa418fa39aebbddb6",
-"/": "28a0e6bd9a908b3fa418fa39aebbddb6",
+"index.html": "987c7aa79373685cfddd469d3f8222be",
+"/": "987c7aa79373685cfddd469d3f8222be",
 "manifest.json": "286fdcd61ee0308c3a443dd0f4a7711d",
-"main.dart.js": "0a464c49ca92cf8e507fb57b1520090f"
+"main.dart.js": "9988c027d6b12be396fb838315ce9bcf"
 };
 
 // The application shell files that are downloaded before a service worker can
