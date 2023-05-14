@@ -1,6 +1,6 @@
 {
-    "name": "okta_login",
-    "short_name": "okta_login",
+    "name": "example",
+    "short_name": "example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
