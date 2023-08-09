@@ -1,11 +1,11 @@
 {
-    "name": "sigla_driver",
-    "short_name": "sigla_driver",
+    "name": "go check",
+    "short_name": "go check",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Ponto Eletrônico",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
