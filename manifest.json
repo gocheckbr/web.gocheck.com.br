@@ -1,11 +1,11 @@
 {
-    "name": "go check",
-    "short_name": "go check",
+    "name": "gocheck_avaliacao_feiras",
+    "short_name": "gocheck_avaliacao_feiras",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Ponto Eletrônico",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
